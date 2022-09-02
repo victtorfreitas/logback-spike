@@ -16,3 +16,5 @@ It's not necessary UUID propagation in all logs of process. It's scalable and ea
 It was necessary register interceptor in WebMvcConfigurer and add new variable with name
 correlationID at file logback.xml.
 
+# Update
+It was created new branch with lib interceptor. The name branch is **feature/interceptor-lib**
